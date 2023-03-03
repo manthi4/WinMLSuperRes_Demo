@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinML_SuperRes_Demo", "WinML_SuperRes_Demo\WinML_SuperRes_Demo.csproj", "{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Debug|ARM.ActiveCfg = Debug|ARM
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Debug|ARM.Build.0 = Debug|ARM
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Debug|ARM.Deploy.0 = Debug|ARM
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Debug|ARM64.Build.0 = Debug|ARM64
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Debug|x64.ActiveCfg = Debug|x64
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Debug|x64.Build.0 = Debug|x64
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Debug|x64.Deploy.0 = Debug|x64
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Debug|x86.ActiveCfg = Debug|x86
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Debug|x86.Build.0 = Debug|x86
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Debug|x86.Deploy.0 = Debug|x86
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Release|ARM.ActiveCfg = Release|ARM
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Release|ARM.Build.0 = Release|ARM
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Release|ARM.Deploy.0 = Release|ARM
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Release|ARM64.ActiveCfg = Release|ARM64
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Release|ARM64.Build.0 = Release|ARM64
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Release|ARM64.Deploy.0 = Release|ARM64
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Release|x64.ActiveCfg = Release|x64
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Release|x64.Build.0 = Release|x64
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Release|x64.Deploy.0 = Release|x64
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Release|x86.ActiveCfg = Release|x86
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Release|x86.Build.0 = Release|x86
+		{B3F6C4EA-DB91-48EE-84CA-5C06F42C4206}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {171EF7E2-8099-4562-AA03-D3DC058BAD1F}
+	EndGlobalSection
+EndGlobal
